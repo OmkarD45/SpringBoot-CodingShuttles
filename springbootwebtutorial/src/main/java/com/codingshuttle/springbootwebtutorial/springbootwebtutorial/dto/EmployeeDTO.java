@@ -8,6 +8,7 @@ public class EmployeeDTO {
 	private String email;
 	private Integer age;
 	private LocalDate doj;
+	
 	private Boolean isActive;
 	
 	public EmployeeDTO() {
